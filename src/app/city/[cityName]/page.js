@@ -4,6 +4,7 @@ import ProjectCard from "@/components/ProjectCard";
 import useSearchList from "@/hooks/useSearchList";
 import { useSearchParams, useParams } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
+import { motion } from "framer-motion";
 
 export default function CityPage() {
   const searchParams = useSearchParams();
@@ -38,21 +39,27 @@ export default function CityPage() {
   console.log("🚀 ~ CityPage ~ list:", list);
   return (
     <>
-      <h1>{cityName}</h1>
-      {/* {list.map((l, i) => (
-          <ProjectCard key={i} projectData={l} />
-        ))} */}
-      {list.map((prj, i) => {
-        if (list.length === i + 1)
-          return (
-            <div ref={lastElementRef} key={prj.psmid + i}>
-              <ProjectCard projectData={prj} />
-            </div>
-          );
-        else {
-          return <ProjectCard key={prj.psmid + i} projectData={prj} />;
-        }
-      })}
+      <h1 className='text-4xl md:text-5xl font-extrabold text-gray-200 text-center mb-6'>
+        {cityName}
+        <span className='block w-20 h-1 bg-red-500 mx-auto mt-2 rounded-full'></span>
+      </h1>
+      <div className='w-[100%] flex flex-col gap-4 justify-center items-center'>
+        {list.map((prj, i) => {
+          if (list.length === i + 1)
+            return (
+              <div ref={lastElementRef} key={prj.psmid + i}>
+                <ProjectCard projectData={prj} />
+              </div>
+            );
+          else {
+            return (
+              <>
+                <ProjectCard key={prj.psmid + i} projectData={prj} />;
+              </>
+            );
+          }
+        })}
+      </div>
       {loading && <div>Loading...</div>}
       {error && <div>Error</div>}
     </>

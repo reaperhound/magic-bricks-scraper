@@ -12,7 +12,7 @@ const ProjectCard = ({ projectData }) => {
     prjPossYear,
   } = projectData;
   return (
-    <div className='flex bg-white shadow-md rounded-xl overflow-hidden border'>
+    <div className='flex bg-white shadow-md rounded-xl overflow-hidden border w-[60%] h-[30vh]'>
       {/* Left - Project Info */}
       <div className='w-1/3 relative'>
         <img
@@ -29,7 +29,7 @@ const ProjectCard = ({ projectData }) => {
       </div>
 
       {/* Middle - Videos, RERA, Amenities */}
-      <div className='w-1/3 flex flex-col p-4 justify-between'>
+      <div className='w-1/3 flex flex-col p-4 justify-between text-black'>
         {/* Videos */}
         <div>
           <p className='font-semibold mb-2'>Expert Reviews & Advice</p>
