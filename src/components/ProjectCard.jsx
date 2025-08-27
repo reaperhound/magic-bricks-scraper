@@ -1,4 +1,5 @@
 import { Play } from "lucide-react";
+import { Link } from "next/link";
 
 const ProjectCard = ({ projectData }) => {
   const {
@@ -10,6 +11,7 @@ const ProjectCard = ({ projectData }) => {
     reviewDataYt,
     sblink,
     prjPossYear,
+    lt,
   } = projectData;
   return (
     <div className='flex bg-white shadow-md rounded-xl overflow-hidden border w-[60%] h-[30vh]'>

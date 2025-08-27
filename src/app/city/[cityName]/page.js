@@ -47,15 +47,22 @@ export default function CityPage() {
         {list.map((prj, i) => {
           if (list.length === i + 1)
             return (
-              <div ref={lastElementRef} key={prj.psmid + i}>
+              <div
+                ref={lastElementRef}
+                key={prj.psmid + i}
+                className='w-[100%] grid place-items-center'
+              >
                 <ProjectCard projectData={prj} />
               </div>
             );
           else {
             return (
-              <>
-                <ProjectCard key={prj.psmid + i} projectData={prj} />;
-              </>
+              <div
+                key={prj.psmid + i}
+                className='w-[100%] grid place-items-center'
+              >
+                <ProjectCard projectData={prj} />;
+              </div>
             );
           }
         })}
