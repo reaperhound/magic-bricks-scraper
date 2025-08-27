@@ -1,5 +1,5 @@
 import { Play } from "lucide-react";
-import { Link } from "next/link";
+import Link from "next/link";
 
 const ProjectCard = ({ projectData }) => {
   const {
@@ -12,22 +12,29 @@ const ProjectCard = ({ projectData }) => {
     sblink,
     prjPossYear,
     lt,
+    psmid,
   } = projectData;
   return (
     <div className='flex bg-white shadow-md rounded-xl overflow-hidden border w-[60%] h-[30vh]'>
       {/* Left - Project Info */}
       <div className='w-1/3 relative'>
-        <img
-          src={imageUrl}
-          alt={psmName}
-          className='w-full h-full object-cover'
-        />
-        <div className='absolute bottom-3 left-3 text-white'>
-          <h2 className='text-xl font-bold'>{psmName}</h2>
-          <p className='text-sm'>{lmtDName}</p>
-          <p className='font-semibold'>{`${minPriceDesc} - ${maxPriceDesc}`}</p>
-          <p className='text-xs'>{`Possession in ${prjPossYear}`}</p>
-        </div>
+        <Link
+          href={`/project/${encodeURIComponent(
+            psmName
+          )}?lt=${lt}&psmid=${psmid}`}
+        >
+          <img
+            src={imageUrl}
+            alt={psmName}
+            className='w-full h-full object-cover'
+          />
+          <div className='absolute bottom-3 left-3 text-white'>
+            <h2 className='text-xl font-bold'>{psmName}</h2>
+            <p className='text-sm'>{lmtDName}</p>
+            <p className='font-semibold'>{`${minPriceDesc} - ${maxPriceDesc}`}</p>
+            <p className='text-xs'>{`Possession in ${prjPossYear}`}</p>
+          </div>
+        </Link>
       </div>
 
       {/* Middle - Videos, RERA, Amenities */}
