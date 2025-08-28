@@ -13,7 +13,11 @@ const ProjectCard = ({ projectData }) => {
     prjPossYear,
     lt,
     psmid,
+    pdpUrl,
+    image,
   } = projectData;
+  console.log("🚀 ~ ProjectCard ~ pdpUrl:", pdpUrl);
+  console.log("🚀 ~ ProjectCard ~ pdpUrl:", image);
   return (
     <div className='flex bg-white shadow-md rounded-xl overflow-hidden border w-[60%] h-[30vh]'>
       {/* Left - Project Info */}
@@ -21,7 +25,7 @@ const ProjectCard = ({ projectData }) => {
         <Link
           href={`/project/${encodeURIComponent(
             psmName
-          )}?lt=${lt}&psmid=${psmid}`}
+          )}?lt=${lt}&psmid=${psmid}&pdpUrl=${pdpUrl}&image=${image}`}
         >
           <img
             src={imageUrl}

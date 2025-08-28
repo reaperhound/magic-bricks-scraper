@@ -10,6 +10,8 @@ export default function ProjectPage() {
   const params = useParams();
   const lt = searchParams.get("lt");
   const psmid = searchParams.get("psmid");
+  const pdpUrl = searchParams.get("pdpUrl");
+  const image = searchParams.get("image");
   console.log("🚀 ~ ProjectPage ~ lt:", lt);
   let { projectName } = params;
   projectName = decodeURIComponent(projectName);
