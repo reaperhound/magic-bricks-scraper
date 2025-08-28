@@ -1,12 +1,13 @@
 import { useEffect, useState } from "react";
+import jsonData from "../data/scraped.json";
 
-export default function useSearchList(rfnum, pgNum) {
+export default function useSearchList(rfnum, pgNum, pageSize = 10) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   const [list, setList] = useState([]);
   const [hasMore, setHasMore] = useState(false);
 
-  //    Reset list if rfnum changes
+  // Reset list if rfnum changes
   useEffect(() => {
     setList([]);
   }, [rfnum]);
@@ -14,23 +15,34 @@ export default function useSearchList(rfnum, pgNum) {
   useEffect(() => {
     setLoading(true);
     setError(false);
-    async function newProjectListFetch() {
+
+    async function fetchLocalList() {
       try {
-        const res = await fetch(
-          `/api/newprojectlist?rfnum=${rfnum}&pgNum=${pgNum}`
-        );
-        const data = await res.json();
-        console.log("🚀 ~ newProjectListFetch ~ data:", data);
-        setList((prevList) => [...prevList, ...data]);
-        setHasMore(data.length > 0); // if the array has data hasMore = true
+        // Fetch the JSON from public folder
+        const res = jsonData;
+        // if (!res.ok) throw new Error("Failed to load JSON");
+        const data = res;
+
+        // Filter by rfnum if provided
+
+        // Pagination
+        const startIndex = (pgNum - 1) * pageSize;
+        const endIndex = pgNum * pageSize;
+        const pageData = data.slice(startIndex, endIndex);
+
+        // Append new data to list
+        setList((prevList) => [...prevList, ...pageData]);
+        setHasMore(endIndex < data.length);
+
         setLoading(false);
       } catch (err) {
-        console.log("🚀 ~ useSearchList ~ err:", err);
+        console.error("🚀 ~ useSearchList ~ err:", err);
         setError(true);
       }
     }
-    newProjectListFetch();
-  }, [rfnum, pgNum]);
+
+    fetchLocalList();
+  }, [rfnum, pgNum, pageSize]);
 
   return [loading, error, list, hasMore];
 }

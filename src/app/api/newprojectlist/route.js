@@ -33,7 +33,6 @@ export async function GET(req) {
     method: "GET",
   });
   const data = await response.json();
-  console.log("🚀 ~ GET ~ data:", data);
 
   return NextResponse.json(data.projectsCards);
 }

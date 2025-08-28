@@ -27,7 +27,6 @@ export default function CityPage() {
 
       observer.current = new IntersectionObserver((entries) => {
         if (entries[0].isIntersecting) {
-          console.log("🚀 ~ CityPage ~ VISIBLE");
           setPgNum((prevPgNum) => prevPgNum + 1);
         }
       });
