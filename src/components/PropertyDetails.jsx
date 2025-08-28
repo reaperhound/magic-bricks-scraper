@@ -25,7 +25,8 @@ export default function PropertyDetails({ prptyDetails }) {
   const [showAllImages, setShowAllImages] = useState(false);
 
   // Use prptyDetails if available, otherwise fallback to propertyData
-  const { imageUrls } = prptyDetails || {};
+  const { imageUrls, prjDetails } = prptyDetails || {};
+  console.log("🚀 ~ PropertyDetails ~ prjDetails:", prjDetails);
 
   const displayedImages = showAllImages ? imageUrls : imageUrls.slice(0, 4);
   const remainingCount = imageUrls.length - 4;
@@ -97,14 +98,14 @@ export default function PropertyDetails({ prptyDetails }) {
         <div className='space-y-6 text-black'>
           {/* Property Details */}
           <div className='bg-white p-6 rounded-xl shadow-md'>
-            <h1 className='text-2xl font-bold'>{propertyData.name}</h1>
-            <p className='text-gray-500'>{propertyData.location}</p>
-            <p className='text-gray-500'>By {propertyData.builder}</p>
+            <h1 className='text-2xl font-bold'>{prjDetails.name}</h1>
+            <p className='text-gray-500'>{prjDetails.location}</p>
+            <p className='text-gray-500'>By {prjDetails.builder}</p>
             <div className='mt-4 space-y-1'>
-              <p className='text-lg font-semibold'>{propertyData.priceRange}</p>
-              <p>{propertyData.bhk}</p>
-              <p>Possession: {propertyData.possession}</p>
-              <p className='text-red-600'>{propertyData.emi}</p>
+              <p className='text-lg font-semibold'>{prjDetails.priceRange}</p>
+              <p>{prjDetails.bhk}</p>
+              <p>Possession: {prjDetails.possession}</p>
+              {/* <p className='text-red-600'>{prjDetails.emi[0]}</p> */}
             </div>
             <div className='mt-4 flex gap-4'>
               <button className='flex-1 bg-white border border-red-500 text-red-500 rounded-md py-2 font-semibold hover:bg-red-50'>
@@ -117,7 +118,7 @@ export default function PropertyDetails({ prptyDetails }) {
           </div>
 
           {/* Contact Form */}
-          <div className='bg-white p-6 rounded-xl shadow-md space-y-4'>
+          {/* <div className='bg-white p-6 rounded-xl shadow-md space-y-4'>
             <h2 className='text-xl font-bold'>Looking for a Property?</h2>
             <form className='space-y-3'>
               <input
@@ -139,7 +140,7 @@ export default function PropertyDetails({ prptyDetails }) {
                 Submit
               </button>
             </form>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

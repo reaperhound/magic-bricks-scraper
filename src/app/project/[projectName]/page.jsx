@@ -1,5 +1,6 @@
 "use client";
 
+import Loader from "@/components/Loader";
 import LocationMap from "@/components/LocationMap";
 import PropertyDetails from "@/components/PropertyDetails";
 import { useParams, useSearchParams } from "next/navigation";
@@ -16,6 +17,8 @@ export default function ProjectPage() {
   projectName = decodeURIComponent(projectName);
 
   const [mapData, setMapData] = useState({});
+  const [prjDetails, setPrjDetails] = useState({});
+  console.log("🚀 ~ ProjectPage ~ prjDetails:", prjDetails);
   const [loading, setLoading] = useState(true);
 
   const imageUrls = convertToImageUrls(image);
@@ -23,21 +26,24 @@ export default function ProjectPage() {
   useEffect(() => {
     async function fetchProjectDetails() {
       setLoading(true);
-      const res = await fetch(`/api/projectData?lt=${lt}&psmid=${psmid}`);
+      const res = await fetch(
+        `/api/projectData?lt=${lt}&psmid=${psmid}&pdpUrl=${pdpUrl}`
+      );
       const data = await res.json();
       console.log("🚀 ~ fetchProjectDetails ~ data:", data);
       setMapData(data.mapDetails);
+      setPrjDetails(data.propertyInfo);
       setLoading(false);
     }
     fetchProjectDetails();
   }, []);
 
-  if (loading) return <h1>Loading...</h1>;
+  if (loading) return <Loader />;
 
   return (
     <div className='flex flex-col justify-center items-center gap-6 pb-10'>
       <h1>{projectName}</h1>
-      <PropertyDetails prptyDetails={{ imageUrls }} />
+      <PropertyDetails prptyDetails={{ imageUrls, prjDetails }} />
       <div className='w-[50%] h-30%'>
         <LocationMap
           lat={mapData.lat}
@@ -53,7 +59,6 @@ function convertToImageUrls(input) {
   const baseUrl = "https://img.staticmb.com/mbimages/project/Photo_h470_w1080/";
 
   return input.split(",").map((path) => {
-    // path is like: 2021/08/12/Project-Photo-1-ORIANA-Hyderabad-5296639_345_1366.jpg
     const parts = path.split("/");
     const filename = parts.pop(); // Project-Photo-1-...jpg
     const datePath = parts.join("/"); // 2021/08/12
