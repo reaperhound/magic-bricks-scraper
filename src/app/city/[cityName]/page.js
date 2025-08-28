@@ -5,6 +5,7 @@ import useSearchList from "@/hooks/useSearchList";
 import { useSearchParams, useParams } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
+import Loader from "@/components/Loader";
 
 export default function CityPage() {
   const searchParams = useSearchParams();
@@ -67,7 +68,7 @@ export default function CityPage() {
           }
         })}
       </div>
-      {loading && <div>Loading...</div>}
+      {loading && <Loader />}
       {error && <div>Error</div>}
     </>
   );
