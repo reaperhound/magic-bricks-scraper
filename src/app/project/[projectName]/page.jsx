@@ -5,6 +5,8 @@ import LocationMap from "@/components/LocationMap";
 import PropertyDetails from "@/components/PropertyDetails";
 import { useParams, useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
+import jsonData from "../../../data/scraped.json";
+console.log("🚀 ~ jsonData:", jsonData);
 
 export default function ProjectPage() {
   const searchParams = useSearchParams();
@@ -18,26 +20,33 @@ export default function ProjectPage() {
 
   const [mapData, setMapData] = useState({});
   const [prjDetails, setPrjDetails] = useState({});
-  console.log("🚀 ~ ProjectPage ~ prjDetails:", prjDetails);
   const [loading, setLoading] = useState(true);
 
   const imageUrls = convertToImageUrls(image);
 
   useEffect(() => {
-    async function fetchProjectDetails() {
-      setLoading(true);
-      const res = await fetch(
-        `/api/projectData?lt=${lt}&psmid=${psmid}&pdpUrl=${pdpUrl}`
-      );
-      const data = await res.json();
-      console.log("🚀 ~ fetchProjectDetails ~ data:", data);
-      setMapData(data.mapDetails);
-      setPrjDetails(data.propertyInfo);
-      setLoading(false);
-    }
-    fetchProjectDetails();
+    setLoading(true);
+    const prjData = jsonData.filter((d) => {
+      if (d.lt == lt && d.psmid == psmid) {
+        return d;
+      }
+    });
+    setMapData(prjData[0].mapDetails);
+    setPrjDetails(prjData[0]);
+    setLoading(false);
+
+    // async function fetchProjectDetails() {
+    //   const res = await fetch(
+    //     `/api/projectData?lt=${lt}&psmid=${psmid}&pdpUrl=${pdpUrl}`
+    //   );
+    //   const data = await res.json();
+    //   console.log("🚀 ~ fetchProjectDetails ~ data:", data);
+    //   setLoading(false);
+    // }
+    // fetchProjectDetails();
   }, []);
 
+  console.log("🚀 ~ ProjectPage ~ prjDetails:", prjDetails);
   if (loading) return <Loader />;
 
   return (
@@ -46,9 +55,9 @@ export default function ProjectPage() {
       <PropertyDetails prptyDetails={{ imageUrls, prjDetails }} />
       <div className='w-[50%] h-30%'>
         <LocationMap
-          lat={mapData.lat}
-          long={mapData.long}
-          locName={mapData.locName}
+          lat={mapData?.lat}
+          long={mapData?.long}
+          locName={mapData?.locName}
         />
       </div>
     </div>
