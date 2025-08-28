@@ -130,11 +130,7 @@ export async function GET(req) {
         try {
           const actualData = JSON.parse(proxyData.contents);
           console.log("✅ Proxy fetch successful");
-          return NextResponse.json({
-            ...(actualData.projectsCards || actualData),
-            method: "proxy",
-            rfnum,
-          });
+          return NextResponse.json(actualData.projectsCards);
         } catch (parseError) {
           console.error("Proxy JSON parse error:", parseError.message);
         }
