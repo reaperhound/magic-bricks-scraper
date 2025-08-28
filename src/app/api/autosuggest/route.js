@@ -34,7 +34,11 @@ export async function GET(req) {
     }
   );
   const data = await response.json();
-  console.log("Response status:", response.status);
-  console.log("Response headers:", response.headers.get("content-type"));
+  console.log(
+    "🚀 ~ GET ~ url:",
+    `https://www.magicbricks.com/mbutility/homepageAutoSuggest?searchtxt=${encodeURIComponent(
+      q
+    )}&city=`
+  );
   return NextResponse.json(data);
 }

@@ -22,7 +22,7 @@ export default function SearchBar() {
       try {
         setLoading(true);
         const res = await fetch(
-          `/api/autosuggest?q=${encodeURIComponent(query)}`
+          `${process.env.URL}/api/autosuggest?q=${encodeURIComponent(query)}`
         );
         const data = await res.json();
         const locations = data.locationMap?.LOCATION || [];
