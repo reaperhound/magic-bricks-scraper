@@ -20,6 +20,7 @@ export default function useSearchList(rfnum, pgNum) {
           `/api/newprojectlist?rfnum=${rfnum}&pgNum=${pgNum}`
         );
         const data = await res.json();
+        console.log("🚀 ~ newProjectListFetch ~ data:", data);
         setList((prevList) => [...prevList, ...data]);
         setHasMore(data.length > 0); // if the array has data hasMore = true
         setLoading(false);
