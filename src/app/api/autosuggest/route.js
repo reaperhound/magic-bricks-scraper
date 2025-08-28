@@ -34,6 +34,7 @@ export async function GET(req) {
     }
   );
   const data = await response.json();
-  console.log("🚀 ~ GET ~ data:", data);
+  console.log("Response status:", response.status);
+  console.log("Response headers:", response.headers.get("content-type"));
   return NextResponse.json(data);
 }
