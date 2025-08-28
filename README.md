@@ -43,15 +43,15 @@ A modern, interactive web application for discovering flats and villas across ci
 ## Screenshots
 
 _Search bar_  
-![Homepage](screenshots/Hompage.jpg)  
+![Homepage](./screenshots/Hompage.jpg)  
 _Search bar with auto-suggestions_  
-![Homepage](screenshots/HompageSearch.jpg)
+![Homepage](./screenshots/HompageSearch.jpg)
 
 _Infinite scroll of city-wise projects_
-![Project Listing](screenshots/List.jpg)
+![Project Listing](./screenshots/List.jpg)
 
 _Project info with interactive map and brochure download_
-![Project Details](screenshots/List%20Details.jpg)
+![Project Details](./screenshots/List%20Details.jpg)
 
 [Download Code Explanation](./screenshots/code-explanation.mp4)
 
