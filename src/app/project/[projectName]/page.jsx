@@ -34,16 +34,6 @@ export default function ProjectPage() {
     setMapData(prjData[0].mapDetails);
     setPrjDetails(prjData[0]);
     setLoading(false);
-
-    // async function fetchProjectDetails() {
-    //   const res = await fetch(
-    //     `/api/projectData?lt=${lt}&psmid=${psmid}&pdpUrl=${pdpUrl}`
-    //   );
-    //   const data = await res.json();
-    //   console.log("🚀 ~ fetchProjectDetails ~ data:", data);
-    //   setLoading(false);
-    // }
-    // fetchProjectDetails();
   }, []);
 
   console.log("🚀 ~ ProjectPage ~ prjDetails:", prjDetails);

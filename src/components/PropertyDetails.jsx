@@ -1,25 +1,6 @@
 "use client";
 import { useState } from "react";
 
-const propertyData = {
-  name: "Cybercity Oriana",
-  location: "Moosapet, Hyderabad",
-  builder: "Cybercity Builders and Developers Pvt. Ltd.",
-  priceRange: "₹ 1.22 Cr - ₹ 2.33 Cr",
-  bhk: "2,3,4 BHK Flats",
-  possession: "Dec'25",
-  emi: "₹1.06 Lac EMI",
-  images: [
-    "https://placehold.co/1080x400",
-    "https://placehold.co/600x400",
-    "https://placehold.co/600x400",
-    "https://placehold.co/600x400",
-    "https://placehold.co/600x400", // Additional images
-    "https://placehold.co/600x400",
-    "https://placehold.co/600x400",
-  ],
-};
-
 export default function PropertyDetails({ prptyDetails }) {
   const [mainImage, setMainImage] = useState(0);
   const [showAllImages, setShowAllImages] = useState(false);
@@ -30,6 +11,14 @@ export default function PropertyDetails({ prptyDetails }) {
 
   const displayedImages = showAllImages ? imageUrls : imageUrls.slice(0, 4);
   const remainingCount = imageUrls.length - 4;
+
+  const dateStr = "2026-12-01 00:00:00.0";
+
+  // Convert to a Date object
+  const date = new Date(prjDetails.prjPossDate.replace(" ", "T")); // replace space with 'T' for ISO format
+  const month = date.toLocaleString("en-US", { month: "short" }); // "Dec"
+  const year = String(date.getFullYear()).slice(-2); // "26"
+  const formatted = `${month}'${year}`;
 
   return (
     <div className='p-6'>
@@ -98,18 +87,18 @@ export default function PropertyDetails({ prptyDetails }) {
         <div className='space-y-6 text-black'>
           {/* Property Details */}
           <div className='bg-white p-6 rounded-xl shadow-md'>
-            <h1 className='text-2xl font-bold'>{prjDetails.name}</h1>
-            <p className='text-gray-500'>{prjDetails.location}</p>
-            <p className='text-gray-500'>By {prjDetails.builder}</p>
+            <h1 className='text-2xl font-bold'>{prjDetails.psmName}</h1>
+            <p className='text-gray-500'>{prjDetails.lmtDName}</p>
+            <p className='text-gray-500'>By {prjDetails.devName}</p>
             <div className='mt-4 space-y-1'>
               <p className='text-lg font-semibold'>{prjDetails.priceRange}</p>
               <p>{prjDetails.bhk}</p>
-              <p>Possession: {prjDetails.possession}</p>
+              <p className='font-bold'>Possession: {formatted}</p>
               {/* <p className='text-red-600'>{prjDetails.emi[0]}</p> */}
             </div>
             <div className='mt-4 flex gap-4'>
               <button className='flex-1 bg-white border border-red-500 text-red-500 rounded-md py-2 font-semibold hover:bg-red-50'>
-                Download Brochure
+                <a href={prjDetails.sblink}>Download Brochure</a>
               </button>
               <button className='flex-1 bg-red-500 text-white rounded-md py-2 font-semibold hover:bg-red-600'>
                 Contact Builder
