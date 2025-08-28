@@ -1,4 +1,5 @@
 "use client";
+import { useState } from "react";
 
 const propertyData = {
   name: "Cybercity Oriana",
@@ -13,10 +14,22 @@ const propertyData = {
     "https://placehold.co/600x400",
     "https://placehold.co/600x400",
     "https://placehold.co/600x400",
+    "https://placehold.co/600x400", // Additional images
+    "https://placehold.co/600x400",
+    "https://placehold.co/600x400",
   ],
 };
 
-export default function PropertyDetails() {
+export default function PropertyDetails({ prptyDetails }) {
+  const [mainImage, setMainImage] = useState(0);
+  const [showAllImages, setShowAllImages] = useState(false);
+
+  // Use prptyDetails if available, otherwise fallback to propertyData
+  const { imageUrls } = prptyDetails || {};
+
+  const displayedImages = showAllImages ? imageUrls : imageUrls.slice(0, 4);
+  const remainingCount = imageUrls.length - 4;
+
   return (
     <div className='p-6'>
       {/* Main Container */}
@@ -25,22 +38,59 @@ export default function PropertyDetails() {
         <div className='lg:col-span-2 space-y-4'>
           <div className='relative'>
             <img
-              src='https://placehold.co/600x400'
+              src={imageUrls[mainImage]}
               alt='Main'
               className='w-full h-[400px] object-cover rounded-xl'
             />
           </div>
+
           <div className='grid grid-cols-4 gap-2'>
-            {propertyData.images.map((img, index) => (
-              <img
-                key={index}
-                src={img}
-                alt={`Thumb ${index}`}
-                className='h-24 object-cover rounded-lg cursor-pointer hover:ring-2 hover:ring-red-500'
-                onClick={() => setMainImage(img)}
-              />
-            ))}
+            {displayedImages.map((img, index) => {
+              const isLastItem =
+                index === 3 && !showAllImages && remainingCount > 0;
+
+              return (
+                <div key={index} className='relative'>
+                  <img
+                    src={img}
+                    alt={`Thumb ${index}`}
+                    className={`h-24 w-full object-cover rounded-lg cursor-pointer hover:ring-2 hover:ring-red-500 transition-all ${
+                      mainImage === index ? "ring-2 ring-red-500" : ""
+                    } ${isLastItem ? "brightness-50" : ""}`}
+                    onClick={() => {
+                      if (isLastItem) {
+                        setShowAllImages(true);
+                      } else {
+                        setMainImage(index);
+                      }
+                    }}
+                  />
+
+                  {/* Plus overlay for the 4th image when there are more images */}
+                  {isLastItem && (
+                    <div className='absolute inset-0 flex items-center justify-center rounded-lg bg-black bg-opacity-40'>
+                      <div className='text-white text-center'>
+                        <div className='text-2xl font-bold'>
+                          +{remainingCount}
+                        </div>
+                        <div className='text-xs'>More</div>
+                      </div>
+                    </div>
+                  )}
+                </div>
+              );
+            })}
           </div>
+
+          {/* Show Less Button */}
+          {showAllImages && remainingCount > 0 && (
+            <button
+              onClick={() => setShowAllImages(false)}
+              className='text-red-500 hover:text-red-600 font-medium text-sm mt-2'
+            >
+              Show Less
+            </button>
+          )}
         </div>
 
         {/* Right Column - Details & Contact */}
