@@ -149,7 +149,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -286,7 +293,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/99078_MAP_470_1080.png",
+      "locName": "Moosapet",
+      "id": 99078,
+      "long": 78.42685,
+      "lat": 17.468645
+    }
   },
   {
     "propTy": "10002",
@@ -386,7 +400,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/106441_MAP_470_1080.png",
+      "locName": "Patancheruvu",
+      "id": 106441,
+      "long": 78.2597,
+      "lat": 17.513124
+    }
   },
   {
     "propTy": "10002",
@@ -601,7 +622,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -745,7 +773,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/85782_MAP_470_1080.png",
+      "locName": "Gandi Maisamma",
+      "id": 85782,
+      "long": 78.42302,
+      "lat": 17.578379
+    }
   },
   {
     "propTy": "10002",
@@ -887,7 +922,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002  ,  10017",
@@ -1039,7 +1081,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -1148,7 +1197,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/50515_MAP_470_1080.png",
+      "locName": "Kompally",
+      "id": 50515,
+      "long": 78.48229,
+      "lat": 17.542595
+    }
   },
   {
     "propTy": "10017",
@@ -1252,7 +1308,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80183_MAP_470_1080.png",
+      "locName": "Kukatpally",
+      "id": 80183,
+      "long": 78.402275,
+      "lat": 17.49316
+    }
   },
   {
     "propTy": "10002  ,  10017",
@@ -1354,7 +1417,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -1466,7 +1536,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79031_MAP_470_1080.png",
+      "locName": "Kismatpur",
+      "id": 79031,
+      "long": 78.373116,
+      "lat": 17.336424
+    }
   },
   {
     "propTy": "10002",
@@ -1574,7 +1651,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/99835_MAP_470_1080.png",
+      "locName": "Financial District",
+      "id": 99835,
+      "long": 78.34066,
+      "lat": 17.413887
+    }
   },
   {
     "propTy": "10000",
@@ -1690,7 +1774,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79057_MAP_470_1080.png",
+      "locName": "Medchal",
+      "id": 79057,
+      "long": 78.48319,
+      "lat": 17.631428
+    }
   },
   {
     "propTy": "10002",
@@ -1806,7 +1897,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84895_MAP_470_1080.png",
+      "locName": "Gopanpalle",
+      "id": 84895,
+      "long": 78.312126,
+      "lat": 17.457758
+    }
   },
   {
     "propTy": "10002",
@@ -1937,7 +2035,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002  ,  10007",
@@ -2090,7 +2195,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79096_MAP_470_1080.png",
+      "locName": "Sanath Nagar",
+      "id": 79096,
+      "long": 78.44197,
+      "lat": 17.455946
+    }
   },
   {
     "propTy": "10002",
@@ -2225,7 +2337,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84895_MAP_470_1080.png",
+      "locName": "Gopanpalle",
+      "id": 84895,
+      "long": 78.312126,
+      "lat": 17.457758
+    }
   },
   {
     "propTy": "10002",
@@ -2335,7 +2454,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80191_MAP_470_1080.png",
+      "locName": "Abids",
+      "id": 80191,
+      "long": 78.47307,
+      "lat": 17.393532
+    }
   },
   {
     "propTy": "10002",
@@ -2458,7 +2584,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -2567,7 +2700,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/93466_MAP_470_1080.png",
+      "locName": "Satamrai",
+      "id": 93466,
+      "long": 78.38649,
+      "lat": 17.27784
+    }
   },
   {
     "propTy": "10002",
@@ -2663,7 +2803,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10017",
@@ -2774,7 +2921,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/130781_MAP_470_1080.png",
+      "locName": "Nalagandla",
+      "id": 130781,
+      "long": 78.30352,
+      "lat": 17.46236
+    }
   },
   {
     "propTy": "10002",
@@ -2883,7 +3037,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89377_MAP_470_1080.png",
+      "locName": "Narsingi",
+      "id": 89377,
+      "long": 78.327156,
+      "lat": 17.392572
+    }
   },
   {
     "propTy": "10002",
@@ -3076,7 +3237,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -3191,7 +3359,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/23/Photo_h470_w1080/50556_MAP_470_1080.png",
+      "locName": "Osman Nagar",
+      "id": 50556,
+      "long": 78.280365,
+      "lat": 17.441784
+    }
   },
   {
     "propTy": "10002",
@@ -3341,7 +3516,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79083_MAP_470_1080.png",
+      "locName": "Rajendranagar Mandal",
+      "id": 79083,
+      "long": 78.39665,
+      "lat": 17.308096
+    }
   },
   {
     "propTy": "10002",
@@ -3442,7 +3624,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79031_MAP_470_1080.png",
+      "locName": "Kismatpur",
+      "id": 79031,
+      "long": 78.373116,
+      "lat": 17.336424
+    }
   },
   {
     "propTy": "10017",
@@ -3549,7 +3738,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/78972_MAP_470_1080.png",
+      "locName": "Bolarum",
+      "id": 78972,
+      "long": 78.50828,
+      "lat": 17.518255
+    }
   },
   {
     "propTy": "10002",
@@ -3635,7 +3831,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/93492_MAP_470_1080.png",
+      "locName": "Annojiguda",
+      "id": 93492,
+      "long": 78.66491,
+      "lat": 17.431063
+    }
   },
   {
     "propTy": "10017",
@@ -3734,7 +3937,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/50515_MAP_470_1080.png",
+      "locName": "Kompally",
+      "id": 50515,
+      "long": 78.48229,
+      "lat": 17.542595
+    }
   },
   {
     "propTy": "10002",
@@ -3845,7 +4055,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/93679_MAP_470_1080.png",
+      "locName": "Patighanpur",
+      "id": 93679,
+      "long": 78.24723,
+      "lat": 17.507193
+    }
   },
   {
     "propTy": "10002",
@@ -3973,7 +4190,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/130781_MAP_470_1080.png",
+      "locName": "Nalagandla",
+      "id": 130781,
+      "long": 78.30352,
+      "lat": 17.46236
+    }
   },
   {
     "propTy": "10002",
@@ -4142,7 +4366,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84654_MAP_470_1080.png",
+      "locName": "Bachupally",
+      "id": 84654,
+      "long": 78.38607,
+      "lat": 17.551817
+    }
   },
   {
     "propTy": "10002",
@@ -4264,7 +4495,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/127551_MAP_470_1080.png",
+      "locName": "Nanakaramguda",
+      "id": 127551,
+      "long": 78.34243,
+      "lat": 17.41749
+    }
   },
   {
     "propTy": "10002",
@@ -4359,7 +4597,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84654_MAP_470_1080.png",
+      "locName": "Bachupally",
+      "id": 84654,
+      "long": 78.38607,
+      "lat": 17.551817
+    }
   },
   {
     "propTy": "10002",
@@ -4463,7 +4708,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80157_MAP_470_1080.png",
+      "locName": "Shamshabad",
+      "id": 80157,
+      "long": 78.43668,
+      "lat": 17.245285
+    }
   },
   {
     "propTy": "10002",
@@ -4608,7 +4860,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84656_MAP_470_1080.png",
+      "locName": "Isnapur",
+      "id": 84656,
+      "long": 78.20539,
+      "lat": 17.548252
+    }
   },
   {
     "propTy": "10002",
@@ -4756,7 +5015,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/119531_MAP_470_1080.png",
+      "locName": "Izzathnagar",
+      "id": 119531,
+      "long": 78.37982,
+      "lat": 17.468887
+    }
   },
   {
     "propTy": "10002",
@@ -4952,7 +5218,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80185_MAP_470_1080.png",
+      "locName": "Miyapur",
+      "id": 80185,
+      "long": 78.3443,
+      "lat": 17.521093
+    }
   },
   {
     "propTy": "10002",
@@ -5053,7 +5326,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -5194,7 +5474,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80185_MAP_470_1080.png",
+      "locName": "Miyapur",
+      "id": 80185,
+      "long": 78.3443,
+      "lat": 17.521093
+    }
   },
   {
     "propTy": "10002",
@@ -5308,7 +5595,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/99835_MAP_470_1080.png",
+      "locName": "Financial District",
+      "id": 99835,
+      "long": 78.34066,
+      "lat": 17.413887
+    }
   },
   {
     "propTy": "10002",
@@ -5419,7 +5713,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/85801_MAP_470_1080.png",
+      "locName": "Narepally",
+      "id": 85801,
+      "long": 78.61933,
+      "lat": 17.427305
+    }
   },
   {
     "propTy": "10002",
@@ -5540,7 +5841,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/78952_MAP_470_1080.png",
+      "locName": "Attapur",
+      "id": 78952,
+      "long": 78.43171,
+      "lat": 17.367928
+    }
   },
   {
     "propTy": "10002",
@@ -5669,7 +5977,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -5767,7 +6082,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/130781_MAP_470_1080.png",
+      "locName": "Nalagandla",
+      "id": 130781,
+      "long": 78.30352,
+      "lat": 17.46236
+    }
   },
   {
     "propTy": "10017",
@@ -5890,7 +6212,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -5992,7 +6321,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -6125,7 +6461,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/50515_MAP_470_1080.png",
+      "locName": "Kompally",
+      "id": 50515,
+      "long": 78.48229,
+      "lat": 17.542595
+    }
   },
   {
     "propTy": "10002",
@@ -6250,7 +6593,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10017",
@@ -6351,7 +6701,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89549_MAP_470_1080.png",
+      "locName": "Mokila",
+      "id": 89549,
+      "long": 78.19156,
+      "lat": 17.440388
+    }
   },
   {
     "propTy": "10002",
@@ -6472,7 +6829,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79103_MAP_470_1080.png",
+      "locName": "Shaikpet",
+      "id": 79103,
+      "long": 78.39455,
+      "lat": 17.406675
+    }
   },
   {
     "propTy": "10002",
@@ -6589,7 +6953,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/50515_MAP_470_1080.png",
+      "locName": "Kompally",
+      "id": 50515,
+      "long": 78.48229,
+      "lat": 17.542595
+    }
   },
   {
     "propTy": "10002",
@@ -6696,7 +7067,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/106441_MAP_470_1080.png",
+      "locName": "Patancheruvu",
+      "id": 106441,
+      "long": 78.2597,
+      "lat": 17.513124
+    }
   },
   {
     "propTy": "10002",
@@ -6826,7 +7204,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89377_MAP_470_1080.png",
+      "locName": "Narsingi",
+      "id": 89377,
+      "long": 78.327156,
+      "lat": 17.392572
+    }
   },
   {
     "propTy": "10002",
@@ -6948,7 +7333,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80175_MAP_470_1080.png",
+      "locName": "Hayathnagar Khalsa",
+      "id": 80175,
+      "long": 78.60249,
+      "lat": 17.33023
+    }
   },
   {
     "propTy": "10002  ,  10003",
@@ -7066,7 +7458,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -7180,7 +7579,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/86428_MAP_470_1080.png",
+      "locName": "Puppalguda",
+      "id": 86428,
+      "long": 78.37961,
+      "lat": 17.397192
+    }
   },
   {
     "propTy": "10002",
@@ -7326,7 +7732,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80185_MAP_470_1080.png",
+      "locName": "Miyapur",
+      "id": 80185,
+      "long": 78.3443,
+      "lat": 17.521093
+    }
   },
   {
     "propTy": "10002",
@@ -7429,7 +7842,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/78997_MAP_470_1080.png",
+      "locName": "Gachibowli",
+      "id": 78997,
+      "long": 78.339775,
+      "lat": 17.443563
+    }
   },
   {
     "propTy": "10002",
@@ -7552,7 +7972,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -7652,7 +8079,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/106441_MAP_470_1080.png",
+      "locName": "Patancheruvu",
+      "id": 106441,
+      "long": 78.2597,
+      "lat": 17.513124
+    }
   },
   {
     "propTy": "10002",
@@ -7861,7 +8295,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -8011,7 +8452,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89549_MAP_470_1080.png",
+      "locName": "Mokila",
+      "id": 89549,
+      "long": 78.19156,
+      "lat": 17.440388
+    }
   },
   {
     "propTy": "10002",
@@ -8109,7 +8557,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -8210,7 +8665,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -8322,7 +8784,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/86428_MAP_470_1080.png",
+      "locName": "Puppalguda",
+      "id": 86428,
+      "long": 78.37961,
+      "lat": 17.397192
+    }
   },
   {
     "propTy": "10002",
@@ -8443,7 +8912,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89377_MAP_470_1080.png",
+      "locName": "Narsingi",
+      "id": 89377,
+      "long": 78.327156,
+      "lat": 17.392572
+    }
   },
   {
     "propTy": "10002",
@@ -8544,7 +9020,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/23/Photo_h470_w1080/50556_MAP_470_1080.png",
+      "locName": "Osman Nagar",
+      "id": 50556,
+      "long": 78.280365,
+      "lat": 17.441784
+    }
   },
   {
     "propTy": "10017",
@@ -8670,7 +9153,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -8778,7 +9268,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84461_MAP_470_1080.png",
+      "locName": "Kondapur",
+      "id": 84461,
+      "long": 78.35741,
+      "lat": 17.466139
+    }
   },
   {
     "propTy": "10002",
@@ -8876,7 +9373,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/93474_MAP_470_1080.png",
+      "locName": "Manchirevula",
+      "id": 93474,
+      "long": 78.34806,
+      "lat": 17.37434
+    }
   },
   {
     "propTy": "10002",
@@ -8990,7 +9494,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84461_MAP_470_1080.png",
+      "locName": "Kondapur",
+      "id": 84461,
+      "long": 78.35741,
+      "lat": 17.466139
+    }
   },
   {
     "propTy": "10017",
@@ -9077,7 +9588,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89549_MAP_470_1080.png",
+      "locName": "Mokila",
+      "id": 89549,
+      "long": 78.19156,
+      "lat": 17.440388
+    }
   },
   {
     "propTy": "10002",
@@ -9194,7 +9712,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/23/Photo_h470_w1080/50556_MAP_470_1080.png",
+      "locName": "Osman Nagar",
+      "id": 50556,
+      "long": 78.280365,
+      "lat": 17.441784
+    }
   },
   {
     "propTy": "10017",
@@ -9302,7 +9827,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84590_MAP_470_1080.png",
+      "locName": "Chevella",
+      "id": 84590,
+      "long": 78.1386,
+      "lat": 17.310646
+    }
   },
   {
     "propTy": "10002",
@@ -9417,7 +9949,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -9576,7 +10115,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79118_MAP_470_1080.png",
+      "locName": "Uppal",
+      "id": 79118,
+      "long": 78.56373,
+      "lat": 17.40351
+    }
   },
   {
     "propTy": "10017",
@@ -9689,7 +10235,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/106441_MAP_470_1080.png",
+      "locName": "Patancheruvu",
+      "id": 106441,
+      "long": 78.2597,
+      "lat": 17.513124
+    }
   },
   {
     "propTy": "10002",
@@ -9818,7 +10371,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84461_MAP_470_1080.png",
+      "locName": "Kondapur",
+      "id": 84461,
+      "long": 78.35741,
+      "lat": 17.466139
+    }
   },
   {
     "propTy": "10002",
@@ -9929,7 +10489,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -10029,7 +10596,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/127557_MAP_470_1080.png",
+      "locName": "Manikonda Jagir",
+      "id": 127557,
+      "long": 78.368744,
+      "lat": 17.412504
+    }
   },
   {
     "propTy": "10017",
@@ -10150,7 +10724,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/106441_MAP_470_1080.png",
+      "locName": "Patancheruvu",
+      "id": 106441,
+      "long": 78.2597,
+      "lat": 17.513124
+    }
   },
   {
     "propTy": "10002",
@@ -10325,7 +10906,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -10457,7 +11045,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79100_MAP_470_1080.png",
+      "locName": "Serilingampalle M",
+      "id": 79100,
+      "long": 78.32,
+      "lat": 17.474388
+    }
   },
   {
     "propTy": "10002",
@@ -10567,7 +11162,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -10699,7 +11301,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80054_MAP_470_1080.png",
+      "locName": "Somajiguda",
+      "id": 80054,
+      "long": 78.45765,
+      "lat": 17.421713
+    }
   },
   {
     "propTy": "10002",
@@ -10848,7 +11457,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10000",
@@ -10937,7 +11553,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80167_MAP_470_1080.png",
+      "locName": "Maheshwaram",
+      "id": 80167,
+      "long": 78.427315,
+      "lat": 17.135412
+    }
   },
   {
     "propTy": "10002",
@@ -11077,7 +11700,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79103_MAP_470_1080.png",
+      "locName": "Shaikpet",
+      "id": 79103,
+      "long": 78.39455,
+      "lat": 17.406675
+    }
   },
   {
     "propTy": "10002",
@@ -11288,7 +11918,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89377_MAP_470_1080.png",
+      "locName": "Narsingi",
+      "id": 89377,
+      "long": 78.327156,
+      "lat": 17.392572
+    }
   },
   {
     "propTy": "10002",
@@ -11416,7 +12053,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -11535,7 +12179,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -11694,7 +12345,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -11794,7 +12452,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84654_MAP_470_1080.png",
+      "locName": "Bachupally",
+      "id": 84654,
+      "long": 78.38607,
+      "lat": 17.551817
+    }
   },
   {
     "propTy": "10002",
@@ -11896,7 +12561,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/50515_MAP_470_1080.png",
+      "locName": "Kompally",
+      "id": 50515,
+      "long": 78.48229,
+      "lat": 17.542595
+    }
   },
   {
     "propTy": "10002",
@@ -12027,7 +12699,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -12150,7 +12829,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -12285,7 +12971,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/93474_MAP_470_1080.png",
+      "locName": "Manchirevula",
+      "id": 93474,
+      "long": 78.34806,
+      "lat": 17.37434
+    }
   },
   {
     "propTy": "10002",
@@ -12404,7 +13097,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -12515,7 +13215,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -12639,7 +13346,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10017",
@@ -12740,7 +13454,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2022/Jun/6/Photo_h470_w1080/142361_MAP_470_1080.png",
+      "locName": "Gagillapur",
+      "id": 142361,
+      "long": 78.39025,
+      "lat": 17.610567
+    }
   },
   {
     "propTy": "10002",
@@ -12856,7 +13577,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -12994,7 +13722,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -13124,7 +13859,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84692_MAP_470_1080.png",
+      "locName": "Gajularamaram",
+      "id": 84692,
+      "long": 78.40937,
+      "lat": 17.539549
+    }
   },
   {
     "propTy": "10002",
@@ -13253,7 +13995,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84931_MAP_470_1080.png",
+      "locName": "Tellapur",
+      "id": 84931,
+      "long": 78.27516,
+      "lat": 17.460619
+    }
   },
   {
     "propTy": "10002",
@@ -13385,7 +14134,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -13493,7 +14249,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84654_MAP_470_1080.png",
+      "locName": "Bachupally",
+      "id": 84654,
+      "long": 78.38607,
+      "lat": 17.551817
+    }
   },
   {
     "propTy": "10002",
@@ -13619,7 +14382,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/86428_MAP_470_1080.png",
+      "locName": "Puppalguda",
+      "id": 86428,
+      "long": 78.37961,
+      "lat": 17.397192
+    }
   },
   {
     "propTy": "10002",
@@ -13774,7 +14544,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89377_MAP_470_1080.png",
+      "locName": "Narsingi",
+      "id": 89377,
+      "long": 78.327156,
+      "lat": 17.392572
+    }
   },
   {
     "propTy": "10002",
@@ -13897,7 +14674,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84915_MAP_470_1080.png",
+      "locName": "Pragathi Nagar",
+      "id": 84915,
+      "long": 78.398315,
+      "lat": 17.520384
+    }
   },
   {
     "propTy": "10017",
@@ -14004,7 +14788,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84918_MAP_470_1080.png",
+      "locName": "Rampally",
+      "id": 84918,
+      "long": 78.634605,
+      "lat": 17.463324
+    }
   },
   {
     "propTy": "10002",
@@ -14127,7 +14918,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/130781_MAP_470_1080.png",
+      "locName": "Nalagandla",
+      "id": 130781,
+      "long": 78.30352,
+      "lat": 17.46236
+    }
   },
   {
     "propTy": "10002",
@@ -14256,7 +15054,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80170_MAP_470_1080.png",
+      "locName": "Kollur",
+      "id": 80170,
+      "long": 78.24259,
+      "lat": 17.43447
+    }
   },
   {
     "propTy": "10002",
@@ -14426,7 +15231,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -14537,7 +15349,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80185_MAP_470_1080.png",
+      "locName": "Miyapur",
+      "id": 80185,
+      "long": 78.3443,
+      "lat": 17.521093
+    }
   },
   {
     "propTy": "10002",
@@ -14750,7 +15569,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80185_MAP_470_1080.png",
+      "locName": "Miyapur",
+      "id": 80185,
+      "long": 78.3443,
+      "lat": 17.521093
+    }
   },
   {
     "propTy": "10002",
@@ -14857,7 +15683,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80183_MAP_470_1080.png",
+      "locName": "Kukatpally",
+      "id": 80183,
+      "long": 78.402275,
+      "lat": 17.49316
+    }
   },
   {
     "propTy": "10002",
@@ -14989,7 +15822,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/23/Photo_h470_w1080/50556_MAP_470_1080.png",
+      "locName": "Osman Nagar",
+      "id": 50556,
+      "long": 78.280365,
+      "lat": 17.441784
+    }
   },
   {
     "propTy": "10002",
@@ -15092,7 +15932,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79118_MAP_470_1080.png",
+      "locName": "Uppal",
+      "id": 79118,
+      "long": 78.56373,
+      "lat": 17.40351
+    }
   },
   {
     "propTy": "10002",
@@ -15214,7 +16061,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79118_MAP_470_1080.png",
+      "locName": "Uppal",
+      "id": 79118,
+      "long": 78.56373,
+      "lat": 17.40351
+    }
   },
   {
     "propTy": "10002",
@@ -15357,7 +16211,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -15497,7 +16358,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/130781_MAP_470_1080.png",
+      "locName": "Nalagandla",
+      "id": 130781,
+      "long": 78.30352,
+      "lat": 17.46236
+    }
   },
   {
     "propTy": "10002",
@@ -15630,7 +16498,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/117989_MAP_470_1080.png",
+      "locName": "Malkajgiri",
+      "id": 117989,
+      "long": 78.53239,
+      "lat": 17.448486
+    }
   },
   {
     "propTy": "10002",
@@ -15736,7 +16611,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/78952_MAP_470_1080.png",
+      "locName": "Attapur",
+      "id": 78952,
+      "long": 78.43171,
+      "lat": 17.367928
+    }
   },
   {
     "propTy": "10002",
@@ -15876,7 +16758,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/105831_MAP_470_1080.png",
+      "locName": "Bandlaguda Jagir",
+      "id": 105831,
+      "long": 78.394875,
+      "lat": 17.35711
+    }
   },
   {
     "propTy": "10002",
@@ -15991,7 +16880,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84461_MAP_470_1080.png",
+      "locName": "Kondapur",
+      "id": 84461,
+      "long": 78.35741,
+      "lat": 17.466139
+    }
   },
   {
     "propTy": "10002",
@@ -16123,7 +17019,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -16234,7 +17137,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/117989_MAP_470_1080.png",
+      "locName": "Malkajgiri",
+      "id": 117989,
+      "long": 78.53239,
+      "lat": 17.448486
+    }
   },
   {
     "propTy": "10002",
@@ -16350,7 +17260,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80183_MAP_470_1080.png",
+      "locName": "Kukatpally",
+      "id": 80183,
+      "long": 78.402275,
+      "lat": 17.49316
+    }
   },
   {
     "propTy": "10002",
@@ -16454,7 +17371,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/86428_MAP_470_1080.png",
+      "locName": "Puppalguda",
+      "id": 86428,
+      "long": 78.37961,
+      "lat": 17.397192
+    }
   },
   {
     "propTy": "10002",
@@ -16588,7 +17512,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/127557_MAP_470_1080.png",
+      "locName": "Manikonda Jagir",
+      "id": 127557,
+      "long": 78.368744,
+      "lat": 17.412504
+    }
   },
   {
     "propTy": "10002",
@@ -16701,7 +17632,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79118_MAP_470_1080.png",
+      "locName": "Uppal",
+      "id": 79118,
+      "long": 78.56373,
+      "lat": 17.40351
+    }
   },
   {
     "propTy": "10002",
@@ -16827,7 +17765,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84895_MAP_470_1080.png",
+      "locName": "Gopanpalle",
+      "id": 84895,
+      "long": 78.312126,
+      "lat": 17.457758
+    }
   },
   {
     "propTy": "10002",
@@ -16935,7 +17880,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/86428_MAP_470_1080.png",
+      "locName": "Puppalguda",
+      "id": 86428,
+      "long": 78.37961,
+      "lat": 17.397192
+    }
   },
   {
     "propTy": "10003",
@@ -17045,7 +17997,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/85771_MAP_470_1080.png",
+      "locName": "Appa Junction Area",
+      "id": 85771,
+      "long": 78.36012,
+      "lat": 17.34958
+    }
   },
   {
     "propTy": "10002",
@@ -17184,7 +18143,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89377_MAP_470_1080.png",
+      "locName": "Narsingi",
+      "id": 89377,
+      "long": 78.327156,
+      "lat": 17.392572
+    }
   },
   {
     "minPrice": 0,
@@ -17326,7 +18292,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/122143_MAP_470_1080.png",
+      "locName": "Kadthal",
+      "id": 122143,
+      "long": 78.49934,
+      "lat": 16.983278
+    }
   },
   {
     "minPrice": 0,
@@ -17411,7 +18384,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/50515_MAP_470_1080.png",
+      "locName": "Kompally",
+      "id": 50515,
+      "long": 78.48229,
+      "lat": 17.542595
+    }
   },
   {
     "amenities": [
@@ -17499,7 +18479,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/93517_MAP_470_1080.png",
+      "locName": "Dundigal",
+      "id": 93517,
+      "long": 78.40859,
+      "lat": 17.620615
+    }
   },
   {
     "amenities": [
@@ -17587,7 +18574,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/106441_MAP_470_1080.png",
+      "locName": "Patancheruvu",
+      "id": 106441,
+      "long": 78.2597,
+      "lat": 17.513124
+    }
   },
   {
     "minPrice": 0,
@@ -17712,7 +18706,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89109_MAP_470_1080.png",
+      "locName": "Nagole",
+      "id": 89109,
+      "long": 78.5682,
+      "lat": 17.377085
+    }
   },
   {
     "minPrice": 0,
@@ -17827,7 +18828,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84478_MAP_470_1080.png",
+      "locName": "Balanagar",
+      "id": 84478,
+      "long": 78.44462,
+      "lat": 17.47761
+    }
   },
   {
     "amenities": [
@@ -17922,7 +18930,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84488_MAP_470_1080.png",
+      "locName": "Shadnagar",
+      "id": 84488,
+      "long": 78.208115,
+      "lat": 17.07024
+    }
   },
   {
     "amenities": [
@@ -18006,7 +19021,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80056_MAP_470_1080.png",
+      "locName": "Madhapur",
+      "id": 80056,
+      "long": 78.39148,
+      "lat": 17.447437
+    }
   },
   {
     "amenities": [
@@ -18080,7 +19102,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/113088_MAP_470_1080.png",
+      "locName": "Bacharam",
+      "id": 113088,
+      "long": 78.68975,
+      "lat": 17.394125
+    }
   },
   {
     "minPrice": 0,
@@ -18194,7 +19223,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/90306_MAP_470_1080.png",
+      "locName": "Mamidpally",
+      "id": 90306,
+      "long": 78.45279,
+      "lat": 17.252146
+    }
   },
   {
     "minPrice": "5590000",
@@ -18331,7 +19367,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/50515_MAP_470_1080.png",
+      "locName": "Kompally",
+      "id": 50515,
+      "long": 78.48229,
+      "lat": 17.542595
+    }
   },
   {
     "amenities": ["12539", "12204", "12205", "12213"],
@@ -18392,7 +19435,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/122143_MAP_470_1080.png",
+      "locName": "Kadthal",
+      "id": 122143,
+      "long": 78.49934,
+      "lat": 16.983278
+    }
   },
   {
     "minPrice": "11110000",
@@ -18528,7 +19578,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80183_MAP_470_1080.png",
+      "locName": "Kukatpally",
+      "id": 80183,
+      "long": 78.402275,
+      "lat": 17.49316
+    }
   },
   {
     "amenities": [
@@ -18605,7 +19662,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84691_MAP_470_1080.png",
+      "locName": "Kothaguda",
+      "id": 84691,
+      "long": 78.37639,
+      "lat": 17.46553
+    }
   },
   {
     "minPrice": "9300000",
@@ -18735,7 +19799,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84915_MAP_470_1080.png",
+      "locName": "Pragathi Nagar",
+      "id": 84915,
+      "long": 78.398315,
+      "lat": 17.520384
+    }
   },
   {
     "minPrice": 0,
@@ -18848,7 +19919,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84654_MAP_470_1080.png",
+      "locName": "Bachupally",
+      "id": 84654,
+      "long": 78.38607,
+      "lat": 17.551817
+    }
   },
   {
     "minPrice": 0,
@@ -18932,7 +20010,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/99657_MAP_470_1080.png",
+      "locName": "Gaganpahad",
+      "id": 99657,
+      "long": 78.41077,
+      "lat": 17.289228
+    }
   },
   {
     "amenities": [
@@ -19052,7 +20137,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/78950_MAP_470_1080.png",
+      "locName": "Ameerpet",
+      "id": 78950,
+      "long": 78.44463,
+      "lat": 17.439186
+    }
   },
   {
     "amenities": ["12203", "12204", "12205", "12209", "12213", "1404157"],
@@ -19114,7 +20206,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/93497_MAP_470_1080.png",
+      "locName": "Ferozguda",
+      "id": 93497,
+      "long": 78.46105,
+      "lat": 17.465246
+    }
   },
   {
     "propTy": "10000",
@@ -19199,7 +20298,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/88878_MAP_470_1080.png",
+      "locName": "Srisailam Highway",
+      "id": 88878,
+      "long": 78.471794,
+      "lat": 17.282505
+    }
   },
   {
     "amenities": [
@@ -19306,7 +20412,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/106353_MAP_470_1080.png",
+      "locName": "Suchitra Road",
+      "id": 106353,
+      "long": 78.47675,
+      "lat": 17.499258
+    }
   },
   {
     "amenities": [
@@ -19391,7 +20504,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2024/Jul/1/Photo_h470_w1080/87074_MAP_470_1080.png",
+      "locName": "Pocharam",
+      "id": 87074,
+      "long": 78.64405,
+      "lat": 17.431776
+    }
   },
   {
     "minPrice": "8750000",
@@ -19514,7 +20634,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/85771_MAP_470_1080.png",
+      "locName": "Appa Junction Area",
+      "id": 85771,
+      "long": 78.36012,
+      "lat": 17.34958
+    }
   },
   {
     "propTy": "10017",
@@ -19597,7 +20724,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84685_MAP_470_1080.png",
+      "locName": "Ghatkesar",
+      "id": 84685,
+      "long": 78.681175,
+      "lat": 17.451323
+    }
   },
   {
     "amenities": [
@@ -19671,7 +20805,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/106441_MAP_470_1080.png",
+      "locName": "Patancheruvu",
+      "id": 106441,
+      "long": 78.2597,
+      "lat": 17.513124
+    }
   },
   {
     "minPrice": "10070000",
@@ -19803,7 +20944,14 @@
       }
     ],
     "reraMessage": "No of units sold and available",
-    "ctaText": "Check Availability"
+    "ctaText": "Check Availability",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/90182_MAP_470_1080.png",
+      "locName": "Alkapur Township",
+      "id": 90182,
+      "long": 78.370285,
+      "lat": 17.386105
+    }
   },
   {
     "amenities": ["12207", "1404118", "12203", "12205", "12206", "12209"],
@@ -19887,7 +21035,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2023/Nov/13/Photo_h470_w1080/164239_MAP_470_1080.png",
+      "locName": "Ravichedu",
+      "id": 164239,
+      "long": 78.411095,
+      "lat": 16.980312
+    }
   },
   {
     "minPrice": 0,
@@ -20009,7 +21164,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/130781_MAP_470_1080.png",
+      "locName": "Nalagandla",
+      "id": 130781,
+      "long": 78.30352,
+      "lat": 17.46236
+    }
   },
   {
     "amenities": [
@@ -20087,7 +21249,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/106353_MAP_470_1080.png",
+      "locName": "Suchitra Road",
+      "id": 106353,
+      "long": 78.47675,
+      "lat": 17.499258
+    }
   },
   {
     "propTy": "10000",
@@ -20159,7 +21328,14 @@
       }
     ],
     "reraMessage": "All Latest Reports from RERA",
-    "ctaText": "View All Reports"
+    "ctaText": "View All Reports",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/84919_MAP_470_1080.png",
+      "locName": "Rudraram",
+      "id": 84919,
+      "long": 78.16706,
+      "lat": 17.56244
+    }
   },
   {
     "amenities": [
@@ -20232,7 +21408,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/80165_MAP_470_1080.png",
+      "locName": "Tukkuguda",
+      "id": 80165,
+      "long": 78.47666,
+      "lat": 17.210442
+    }
   },
   {
     "minPrice": 0,
@@ -20337,7 +21520,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/85822_MAP_470_1080.png",
+      "locName": "Adibatla",
+      "id": 85822,
+      "long": 78.54378,
+      "lat": 17.234375
+    }
   },
   {
     "amenities": [
@@ -20412,7 +21602,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87088_MAP_470_1080.png",
+      "locName": "Yapral",
+      "id": 87088,
+      "long": 78.534584,
+      "lat": 17.511747
+    }
   },
   {
     "minPrice": 0,
@@ -20486,7 +21683,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89377_MAP_470_1080.png",
+      "locName": "Narsingi",
+      "id": 89377,
+      "long": 78.327156,
+      "lat": 17.392572
+    }
   },
   {
     "minPrice": 0,
@@ -20623,7 +21827,14 @@
       }
     ],
     "reraMessage": "Bhk wise configuration",
-    "ctaText": "View Bhk Layouts"
+    "ctaText": "View Bhk Layouts",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/89377_MAP_470_1080.png",
+      "locName": "Narsingi",
+      "id": 89377,
+      "long": 78.327156,
+      "lat": 17.392572
+    }
   },
   {
     "minPrice": 0,
@@ -20722,7 +21933,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/87659_MAP_470_1080.png",
+      "locName": "Kokapet",
+      "id": 87659,
+      "long": 78.33522,
+      "lat": 17.39693
+    }
   },
   {
     "propTy": "10002",
@@ -20824,7 +22042,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/99835_MAP_470_1080.png",
+      "locName": "Financial District",
+      "id": 99835,
+      "long": 78.34066,
+      "lat": 17.413887
+    }
   },
   {
     "minPrice": 0,
@@ -20917,7 +22142,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/85557_MAP_470_1080.png",
+      "locName": "Mallampet",
+      "id": 85557,
+      "long": 78.3351,
+      "lat": 17.549383
+    }
   },
   {
     "amenities": [
@@ -20993,7 +22225,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/79057_MAP_470_1080.png",
+      "locName": "Medchal",
+      "id": 79057,
+      "long": 78.48319,
+      "lat": 17.631428
+    }
   },
   {
     "amenities": ["12545", "12201", "12209", "12213", "12217", "12547"],
@@ -21058,7 +22297,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/86428_MAP_470_1080.png",
+      "locName": "Puppalguda",
+      "id": 86428,
+      "long": 78.37961,
+      "lat": 17.397192
+    }
   },
   {
     "amenities": [
@@ -21130,7 +22376,14 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/85193_MAP_470_1080.png",
+      "locName": "Gandipet",
+      "id": 85193,
+      "long": 78.321945,
+      "lat": 17.38366
+    }
   },
   {
     "minPrice": 0,
@@ -21213,6 +22466,13 @@
       }
     ],
     "reraMessage": "Project certificates & legal approvals",
-    "ctaText": "View Certificates"
+    "ctaText": "View Certificates",
+    "mapDetails": {
+      "imgPath": "https://img.staticmb.com/mbphoto/locality/cropped_images/2021/Dec/24/Photo_h470_w1080/50515_MAP_470_1080.png",
+      "locName": "Kompally",
+      "id": 50515,
+      "long": 78.48229,
+      "lat": 17.542595
+    }
   }
 ]

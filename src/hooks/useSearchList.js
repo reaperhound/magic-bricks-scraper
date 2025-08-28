@@ -20,10 +20,7 @@ export default function useSearchList(rfnum, pgNum, pageSize = 10) {
       try {
         // Fetch the JSON from public folder
         const res = jsonData;
-        // if (!res.ok) throw new Error("Failed to load JSON");
         const data = res;
-
-        // Filter by rfnum if provided
 
         // Pagination
         const startIndex = (pgNum - 1) * pageSize;
